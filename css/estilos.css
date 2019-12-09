@@ -42,3 +42,9 @@ body
     background: white;
     padding: 1em;
 }
+#footer {
+    background: gray;
+    padding: 0.6em;
+    color: white;
+    text-align: center;
+}
